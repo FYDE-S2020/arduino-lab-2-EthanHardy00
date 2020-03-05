@@ -24,7 +24,7 @@ Team Number: F7
 
 5. Why can't we use the delay function with Blynk?
 
-    answer: Blynk is event based, so adding in a delay will mess up timing cause things to not work correctly.
+    answer: Blynk is event based, so adding in a delay will mess up the timing causing things to not work correctly.
 
 6. What does it mean for a function to be "Blocking"?
 
