@@ -1,26 +1,26 @@
-Name:
+Name: Ethan Hardy
 
-EID:
+EID: emh3563
 
-Team Number:
+Team Number: F7
 
 ## Questions
 
 1. What is the purpose of an IP address?
 
-    answer
+    answer: The purpose is to give each machine on a network a unique address so that it can be identified by other machines on the network.
 
 2. What is a DNS? What are the benefits of using domain names instead of IP addresses?
 
-    answer
+    answer: DNS (Domain Name Service) is used to map each IP address to a symbolic name that is easier to remember. DNS makes networks easier to keep track of and use.
 
 3. What is the difference between a static IP and a dynamic IP?
 
-    answer
+    answer: A static IP adress does not change. A dynamic IP Address is assigned by the network when the device is connected and changes over time.
 
 4. What is the tradeoff between UDP and TCP protocols?
 
-    answer
+    answer: TCP is reliable and ensures that the data gets to the reciever. UDP is not reliable but is fast.
 
 5. Why can't we use the delay function with Blynk?
 
