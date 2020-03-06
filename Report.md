@@ -32,11 +32,11 @@ Team Number: F7
 
 7. Why are interrupts useful for writing Non-Blocking code?
 
-    answer: Instead of having to wait for something to happen and consequently causing a block, interrupts allow tasks to keep going because when an event does happen the interrupt will take control and take care of the event. Basically, with interrupts the computer doesn't have to wait for a task to happen.
+    answer: Instead of having to wait for something to happen and consequently causing a block, interrupts allow tasks to keep going because when an event does happen the interrupt will take control and take care of the event. Basically, with interrupts, the computer doesn't have to wait for a task to happen.
 
 8. What is the difference between interface and implementation? Why is it important?
 
-   answer: the Interface defines how a function is called. The implementaion defines what the function does.
+   answer: The Interface defines how a function is called. The implementaion defines what the function does.
 
 9. Screenshot of your Blynk App:
 
